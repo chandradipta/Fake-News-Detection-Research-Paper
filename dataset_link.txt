@@ -1,0 +1,8 @@
+Dataset: Kaggle Fake News Dataset
+URL: https://www.kaggle.com/datasets/algord/fake-news
+
+Instructions:
+1. Log in to Kaggle and navigate to the URL above
+2. Click "Download" to obtain the ZIP archive
+3. Extract fake_news.csv into the project root directory
+4. Run the pipeline as described in README.md

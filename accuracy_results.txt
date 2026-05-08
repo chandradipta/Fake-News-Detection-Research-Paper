@@ -1,0 +1,15 @@
+Evaluation results — held-out test set (20% split, seed=42)
+=============================================================
+
+Model                  Precision   Recall   F1-Score   Accuracy
+-------------------------------------------------------------
+Logistic Regression    0.954       0.951    0.952      95.2%
+Random Forest          0.938       0.931    0.934      93.5%
+Naive Bayes            0.923       0.910    0.916      91.7%
+
+Best-performing model: Logistic Regression (95.2% accuracy)
+
+Notes:
+- All models trained on identical TF-IDF feature matrices
+- No hyperparameter tuning was applied beyond documented defaults
+- Sublinear TF scaling (log(1+tf)) used in vectoriser

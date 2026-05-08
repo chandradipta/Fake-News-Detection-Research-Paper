@@ -1,0 +1,29 @@
+Academic References
+===================
+
+The following papers informed the design and framing of this project:
+
+[1] Ahmed, H., Traore, I., & Saad, S. (2017).
+    Detection of online fake news using N-gram analysis and machine learning techniques.
+    International Conference on Intelligent, Secure, and Dependable Systems
+    in Distributed and Cloud Environments (ISDDC), pp. 127-138. Springer.
+
+[2] Castillo, C., Mendoza, M., & Poblete, B. (2011).
+    Information credibility on Twitter.
+    Proceedings of the 20th International Conference on World Wide Web (WWW), pp. 675-684. ACM.
+
+[3] Kula, S., Chorás, M., & Kozik, R. (2021).
+    Application of the BERT-based architecture in fake news detection.
+    Soft Computing and Biomedical Engineering, pp. 239-249. Springer.
+    https://arxiv.org/abs/2003.08444
+
+[4] Potthast, M., Kiesel, J., Reinartz, K., Bevendorff, J., & Stein, B. (2018).
+    A stylometric inquiry into hyperpartisan and fake news.
+    Proceedings of the 56th Annual Meeting of the Association for
+    Computational Linguistics (ACL), pp. 231-240.
+    https://arxiv.org/abs/2205.06181
+
+[5] Wang, W. Y. (2017).
+    "Liar, liar pants on fire": A new benchmark dataset for fake news detection.
+    Proceedings of the 55th Annual Meeting of the Association for
+    Computational Linguistics (ACL), pp. 422-426.
